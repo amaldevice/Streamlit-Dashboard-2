@@ -1,6 +1,5 @@
 matplotlib==3.7.5
 pandas==2.2.3
-numpy==2.1.2
 Pillow==10.1.0
 protobuf==5.28.2
 seaborn==0.13.2
